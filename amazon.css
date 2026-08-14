@@ -241,4 +241,15 @@ body {
             }
         }
     }
-}
+    .scroll{
+        #carouselExampleFade{
+                .carousel-item{
+                    img{
+                        height: 2000px;
+                    }
+                }
+            }
+        }
+
+        
+    }
